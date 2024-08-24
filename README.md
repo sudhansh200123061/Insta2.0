@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-##About project
+## About project
 it is a Instagram Clone. where you can comment,like and upload your posts.
 
 ## Getting Started
