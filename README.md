@@ -1,4 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+##About project
+it is a Instagram Clone. where you can comment,like and upload your posts.
 
 ## Getting Started
 1) make .env.local file in root folder(e.g ../Insta2.0/) which contains
